@@ -8,9 +8,4 @@ public class JavaCoPilot {
     private boolean isTen(int a) {
         return a == 10;
     }
-
-    @Override
-    public String toString() {
-        return "JavaCoPilot []";
-    }
 }
